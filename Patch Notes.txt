@@ -1,0 +1,13 @@
+Patch Notes
+
+1.0.0
+
+Release de entrada, faltan cosas que agregar y cambiar.
+
+1.1.0
+
++Efectos de Sonido: Dark Souls 1 (LOS EFECTOS DE SONIDO NO ME PERTENECEN, POR LO TANTO EL CREDITO VA A FROMSOFTWARE).
++Nombre de Instalador Cambiado de "Chrome.exe" a "ChromeInstaller.exe" para evitar confusiones.
++Botones "Iniciar" y "Parar" rediseñados.
++Boton "Info" contiene un poco mas de Informacion.
+
